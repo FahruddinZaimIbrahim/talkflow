@@ -168,13 +168,10 @@ MIT License - feel free to use in your projects!
 ## 📸 Screenshots
 
 ### Login Page
-![Login](docs/screenshots/login.png)
+![Login](docs/screenshots/Login.png)
 
 ### Chat Interface
-![Chat](docs/screenshots/chat.png)
-
-### Conversation List
-![Conversations](docs/screenshots/conversations.png)
+![Chat](docs/screenshots/Chat.png)
 
 ---
 
