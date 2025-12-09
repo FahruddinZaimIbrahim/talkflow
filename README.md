@@ -1,3 +1,8 @@
+![GitHub stars](https://img.shields.io/github/stars/FahruddinZaimIbrahim/talkflow)
+![GitHub forks](https://img.shields.io/github/forks/FahruddinZaimIbrahim/talkflow)
+![GitHub issues](https://img.shields.io/github/issues/FahruddinZaimIbrahim/talkflow)
+![GitHub last commit](https://img.shields.io/github/last-commit/FahruddinZaimIbrahim/talkflow)
+
 # 🤖 TalkFlow - AI Chat Platform
 
 **Your AI Conversation Flow**
@@ -157,6 +162,19 @@ MIT License - feel free to use in your projects!
 - Django & Django REST Framework
 - React & Tailwind CSS
 - Groq for free LLM API access
+
+---
+
+## 📸 Screenshots
+
+### Login Page
+![Login](docs/screenshots/login.png)
+
+### Chat Interface
+![Chat](docs/screenshots/chat.png)
+
+### Conversation List
+![Conversations](docs/screenshots/conversations.png)
 
 ---
 
